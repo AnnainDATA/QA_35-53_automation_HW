@@ -1,6 +1,6 @@
 print('--------------------------1---------------------------')
 def print_string_reverse (s):
-    if s is None or s == '' or s.isspace():
+    if s is None or s.strip == '' or s.isspace():
         print('Wrong string!')
     else:
         for i in s[::-1]:
@@ -44,6 +44,7 @@ def print_substring_reverse(s, start, finish):
         s_middle = s[start:finish + 1][::-1]
         print(s_left+s_middle+s_right)
 print_substring_reverse("Shalom", 1, 3)
+print_substring_reverse("Hi", 1, 3)
 
 print('--------------------------4---------------------------')
 def get_words_reverse(s):
@@ -64,6 +65,14 @@ print("---------")
 print_words_reverse_in_column("There’s nothing new under the sun")
 print()
 
+print('--------------------------4aADV------------------------')
+def print_words_reverse_in_column(s):
+    for i in s.split(" "):
+        print(i[::-1])
+print_words_reverse_in_column("Hello my nice world")
+print("---------")
+print_words_reverse_in_column("There’s nothing new under the sun")
+print()
 '''
 HW
 1.
