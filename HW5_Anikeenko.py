@@ -40,16 +40,16 @@ calculate_average(None, 20)
 print("-----------------------------------------------------")
 
 print("Task 4")
-# def read_number():
-#     try:
-#         int(input("Enter any number please:"))
-#     except (TypeError, ValueError):
-#         print("Invalid number!")
-#     else:
-#         print("Number was entered successfully.")
-#     finally:
-#         print("Program finished.")
-# read_number()
+def read_number():
+    try:
+        int(input("Enter any number please:"))
+    except (TypeError, ValueError):
+        print("Invalid number!")
+    else:
+        print("Number was entered successfully.")
+    finally:
+        print("Program finished.")
+read_number()
 print("-----------------------------------------------------")
 
 print("Task 5")
