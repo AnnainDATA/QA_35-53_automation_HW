@@ -1,6 +1,7 @@
 # 🐍 Python Automation: Homework Assignments
 
 This repository contains the completion of 7 homework assignments for the Python Automation course. 
+
 Each assignment is located in its own dedicated branch for easy reviewing and code isolation.
 
 ---
