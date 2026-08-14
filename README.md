@@ -9,7 +9,7 @@ Each assignment is located in its own dedicated branch for easy reviewing and co
 
 All solutions are located in their respective branches:
 
-*   [`homework-1`]([https://github.com/username/repository-name/tree/homework-1](https://github.com/AnnainDATA/QA_35-53_automation_HW/tree/Homework_1)) — **HW #1:** 
+*   [`homework-1`](https://github.com/AnnainDATA/QA_35-53_automation_HW/tree/Homework_1) — **HW #1:** 
 *   [`homework-2`](https://github.com/username/repository-name/tree/homework-2) — **HW #2:** *Working with Strings & Regular Expressions*
 *   [`homework-3`](https://github.com/username/repository-name/tree/homework-3) — **HW #3:** *Data Parsing & File Handling (JSON, CSV)*
 *   [`homework-4`](https://github.com/username/repository-name/tree/homework-4) — **HW #4:** *API Automation (Requests / HTTP)*
